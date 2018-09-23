@@ -1,5 +1,5 @@
 public class StandardIO{
-    //打印n个（lo,hi）之间的随机值
+    //打印n个（lo,hi）之间的随机值.
     public static void main(String[] args) {
         // String in = args[0];
         int n = Integer.parseInt(args[0]);
