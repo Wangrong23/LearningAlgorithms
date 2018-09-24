@@ -1,4 +1,5 @@
 #!/bin/sh
+
 cd ~/文档/code/Algorithms
 c=5
 s1=5 s2=5 s3=5 s4=4 s5=5
